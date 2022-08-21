@@ -27,5 +27,13 @@
 
 ## Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?
 
-**I'd color the background first, then move on to color the texts, then give the buttons a shodow color.
+**I'd color the background first, then move on to color the texts, then give the buttons a shodow color.**
+
+## What do font-size, font-weight, and font-style do to HTML text elements?
+
+**Font-weight, "Used to turn italic text on or off. Possible values are as follows (you'll rarely use this, unless you want to turn some italic styling off for some reason"**
+
+**font-style, "Sets how bold the text is. This has many values available in case you have many font variants available (such as -light, -normal, -bold, -extrabold, -black, etc.), but realistically you'll rarely use any of them except for normal and bold:"
+
+**font-size, it sets the size of the text**
 
