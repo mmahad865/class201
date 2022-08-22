@@ -30,6 +30,13 @@ const dog = {
     console.log(`${this.name} is ${this.age*7} in human years`);
   }
 }
+**The name is spot, the age is 2 and when console.log it returns the dog age in human age, the advantage of using this is you can change things or add to things later on.**
+
+## What is the DOM?
+
+**"a programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects; that way, programming languages can interact with the page."**
+
+
 
 
 
