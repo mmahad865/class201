@@ -22,14 +22,14 @@
 **If the object name is defined you can't use Dot notation you have to use brakets, "Dot notation is generally preferred over bracket notation because it is more succinct and easier to read. However there are some cases where you have to use brackets. For example, if an object property name is defined at runtime then you can't use dot notation to access the value, but you can pass the name as a variable inside brackets"** 
 
 ## Evaluate the code below. What does the term this refer to and what is the advantage to using this?
-//const dog = {
-  //name: 'Spot',
-  //age: 2,
-  //color: 'white with black spots',
-  //humanAge: function (){
-    //console.log(`${this.name} is ${this.age*7} in human years`);
-  //}
-//}
+const dog = {
+  name: 'Spot',
+  age: 2,
+  color: 'white with black spots',
+  humanAge: function (){
+    console.log(`${this.name} is ${this.age*7} in human years`);
+  }
+}
 
 
 
