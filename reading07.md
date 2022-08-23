@@ -16,4 +16,4 @@
   
   ## What is a constructor and what are some advantages to using it?
   
-  
+  **speacial function that creats an object, it saves you time and dont have to copy and past and make a lot of changes.**
