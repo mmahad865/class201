@@ -13,6 +13,20 @@
   ## How does Grid layout differ from Flex?
   
   **Grid is made for two-dimensional layout while Flexbox is for one**
+
+## Grid container, grid item, and grid line are a few important terms to understand when using Grid.
   
+ **"to help us to create layouts in which our elements won't jump around or change width as we move from page to page,"
   
+  ## Img attribute 
+  
+  **The <img> tag creates a holding space for the referenced image.**
+  
+  ## Scrset
+  
+  **The srcset attribute allows you to specify a list of image file URLs**
+  
+  ## Size
+  
+  ** The size defines the witdh and the height.
 
