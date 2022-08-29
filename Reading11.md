@@ -28,5 +28,5 @@
   
   ## Size
   
-  ** The size defines the witdh and the height.
+  **The size defines the witdh and the height.**
 
