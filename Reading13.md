@@ -7,7 +7,7 @@
 
 ## What information should not be stored in local storage?
 
-** You shouldn't store sensitive information with local storage.**
+**You shouldn't store sensitive information with local storage.**
 
 ## Local storage can store what type of data? How would you convert it to that type before storing?
 
