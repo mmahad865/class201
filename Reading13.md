@@ -11,4 +11,4 @@
 
 ## Local storage can store what type of data? How would you convert it to that type before storing?
 
-**Local storage stores string data, "Using strptime() , date and time in string format can be converted to datetime type." **
+**Local storage stores string data, "Using strptime() , date and time in string format can be converted to datetime type."**
